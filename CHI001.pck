@@ -1,6 +1,6 @@
 create or replace package CHI001 is
 
-  -- Author  : APEXh
+  -- Author  : APEX
   -- Created : 08/10/2020 17:54:06
   -- Purpose : 
 
